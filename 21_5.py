@@ -21,5 +21,7 @@ def test_event_ui():
 
 # путь выглядит так (venv) C:\pythonProject\SF_mod_21
 # в терминале задать pytest 21_5.py -v -m "api"
+# другие варианты команд в терминале
+# pytest test.py -v -m "auth or event"
 # pytest 21_5.py -v -m "ui and auth"
-# другие варианты команд в терминале pytest test.py -v -m "auth or event"
+
